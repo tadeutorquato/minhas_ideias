@@ -63,22 +63,27 @@ lib/
 ## 🛠️ Tecnologias Utilizadas
 
 ### **Framework & Linguagem**
+
 - **Flutter**: Framework de desenvolvimento multiplataforma
 - **Dart**: Linguagem de programação
 
 ### **Gerenciamento de Estado**
+
 - **GetX**: Gerenciamento de estado, rotas e dependências
 
 ### **Persistência de Dados**
+
 - **Hive**: Banco de dados NoSQL local e rápido
 - **Hive Flutter**: Integração do Hive com Flutter
 - **Path Provider**: Acesso aos diretórios do sistema
 
 ### **Desenvolvimento**
+
 - **Hive Generator**: Geração automática de adapters
 - **Build Runner**: Ferramenta de build
 
 ### **Design**
+
 - **Material Design 3**: Sistema de design moderno e elegante
 
 ## 🎨 Design
@@ -190,6 +195,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ## 👨‍💻 Autor
 
 **Tadeu Torquato**
+
 - GitHub: [@tadeutorquato](https://github.com/tadeutorquato)
 
 ---
